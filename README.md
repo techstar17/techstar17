@@ -9,6 +9,7 @@ I learn by building, deploying and troubleshooting projects. My practical work i
 | Project | What you can inspect |
 | --- | --- |
 | [FocusFlow](https://github.com/techstar17/focusflow) | React timer, multi-stage Docker build, Jenkins pipeline, and manual EC2 deployment guide |
+| [LaunchDock](https://github.com/techstar17/launchdock) | Python/SQLite deployment dashboard, Docker health checks, release history and rollback |
 | [FRAME / AWS delivery platform](https://github.com/techstar17/netlify) | Terraform infrastructure, release and rollback scripts, tests, and a clear deployment-evidence checklist |
 | [CloudForge](https://github.com/techstar17/cloudforge) | React/Express learning project with JWT authentication and S3 uploads |
 | [CloudForge infrastructure lab](https://github.com/techstar17/cloudforge-terraform-infra) | EC2, S3, Ubuntu bootstrap and passing Terraform validation workflow |
